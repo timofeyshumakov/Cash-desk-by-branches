@@ -2,8 +2,7 @@
   <main class="main">
     <div v-if="isLoading">Загрузка...</div>
     <div v-else class="main-container">
-      <h1>Исходящий вебхук</h1>
-
+      <h1>Сортировка сделок</h1>
     </div>
   </main>
 </template>
