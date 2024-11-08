@@ -1,6 +1,5 @@
 <h2>Касса по филиалам</h2>
 <table width="600px" cellSpacing="1" cellpadding="1" border="1">
-<tr><td><img  width="600px" src="https://github.com/user-attachments/assets/6586d200-2b86-4e16-8eb5-e292d6b6609f"></td></tr>
 <tr><td><img  width="600px" src="https://github.com/user-attachments/assets/858b567d-c8a4-4b4a-81d9-9fc4c6107291"></td></tr>
 </table>
 
