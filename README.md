@@ -29,8 +29,8 @@
     </tr>
     <tr>
       <td align="center">Vuetify</td>
-    <td align="center">Vue.JS</td>
-    <td align="center">TypeScript</td>
+    <td align="center">Vue</td>
+    <td align="center">Type Script</td>
     <td align="center">Sass</td>
     <td align="center">Vite</td>
     <td align="center">Bitrix24</td>
